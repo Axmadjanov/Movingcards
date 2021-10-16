@@ -14,7 +14,6 @@ body {
   width: 100%;
   min-height: 100vh;
   padding: 50px;
-  overflow:hidden;
 }
 
 .container.show-nav {
@@ -81,7 +80,7 @@ nav span {
   margin: 40px;
   background: #555;
   border-radius: 20px;
-  box-shadow:0 2px 4px 2px #fff;
+    box-shadow: 0 2px 4px 2px #fff;
   padding: 10px;
   transform: translateX(-150%);
   transition: all 1s ease-in;
